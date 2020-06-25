@@ -1,5 +1,6 @@
 # symptom-checker
 Well all it asks, are your symptoms to diagnose what your are suffering from diseases if any
+The app.py is a Flask app that is readymade to be hosted on cloud computing platforms
 
 ## How to run
 ### windows
