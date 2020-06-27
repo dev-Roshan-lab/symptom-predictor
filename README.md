@@ -12,4 +12,6 @@ The app.py is a Flask app that is readymade to be hosted on cloud computing plat
 - run command "pip install -r requirements.txt"
 - run _"app.py"_
 
+### Don't know what to do with this check out the [Android app](https://github.com/dev-Roshan-lab/symptom-predictor-api/tree/master/Android%20app%20source) supporting this through an request method to get the disease 
+
 ### made with python 3.8
